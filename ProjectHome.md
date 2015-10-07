@@ -1,0 +1,1 @@
+An Open source clone of the classic Peggle game where you have to shoot balls of the same color to get them away from the board and earn the most points.
